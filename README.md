@@ -108,7 +108,7 @@ Base *"World's Biggest Data Breaches & Hacks"* (Information is Beautiful). Uso e
 
 ## 👤 Autora
 
-Desenvolvido por **Nathalia Fukuda**.
+Desenvolvido por **Nathalia Fukuda** · [github.com/nathfukuda](https://github.com/nathfukuda)
 Sinta-se à vontade para abrir uma *issue* ou se conectar para trocar ideias sobre dados e segurança.
 
 ---
