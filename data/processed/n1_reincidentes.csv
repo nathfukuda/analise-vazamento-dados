@@ -1,0 +1,19 @@
+entity,ataques,total_registros,metodos,anos,total_mi
+Facebook,5,1037000000,"Hacked, Oops!, Poor Security","2013, 2018, 2019, 2021",1037.0
+Yahoo,3,1082000000,Hacked,"2013, 2016, 2017",1082.0
+Twitter,3,335650000,"Hacked, Poor Security","2013, 2018, 2021",335.6
+Aol,3,114400000,"Hacked, Inside Job, Oops!","2004, 2006, 2014",114.4
+T-Mobile,3,78200000,Hacked,"2018, 2020, 2021",78.2
+Citigroup,3,4260000,"Hacked, Lost Device, Oops!","2005, 2011, 2013",4.3
+Linkedin,2,817000000,Hacked,"2016, 2021",817.0
+Jp Morgan Chase,2,78600000,"Hacked, Lost Device","2007, 2014",78.6
+Us Military,2,76260000,"Inside Job, Lost Device","2009, 2010",76.3
+Uber,2,57050000,"Hacked, Poor Security","2015, 2017",57.0
+Quest Diagnostics,2,20034000,"Hacked, Poor Security","2016, 2019",20.0
+Twitch,2,20000000,Hacked,"2015, 2021",20.0
+Sony Pictures,2,11000000,Hacked,"2011, 2014",11.0
+Snapchat,2,6300000,Hacked,"2013, 2017",6.3
+Neiman Marcus,2,5700000,Hacked,"2014, 2021",5.7
+Nintendo,2,4300000,Hacked,"2013, 2020",4.3
+British Airways,2,390000,Hacked,"2015, 2018",0.4
+At&T,2,227000,"Hacked, Lost Device","2008, 2010",0.2

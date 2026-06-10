@@ -1,0 +1,6 @@
+method,incidentes,total_registros,mediana_registros,total_bi,mediana_mi,registros_por_incidente_mi
+Hacked,274,9273769852,4000000.0,9.27,4.0,33.85
+Poor Security,53,4053217483,6500000.0,4.05,6.5,76.48
+Oops!,22,436854658,2400000.0,0.44,2.4,19.86
+Inside Job,20,360319505,1900000.0,0.36,1.9,18.02
+Lost Device,48,215319713,911604.5,0.22,0.91,4.49

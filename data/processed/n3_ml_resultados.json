@@ -1,0 +1,111 @@
+{
+  "classificacao": {
+    "acuracia": 0.524,
+    "baseline": 0.657,
+    "top_features": {
+      "log_records": 0.32,
+      "year": 0.318,
+      "data_sensitivity": 0.125,
+      "set_Web": 0.037,
+      "set_Health": 0.03
+    }
+  },
+  "clustering": {
+    "k": 3,
+    "silhueta": 0.314,
+    "perfis": [
+      {
+        "cluster": 0,
+        "incidentes": 140,
+        "ano_medio": 2010.8,
+        "registros_medianos": 1000000.0,
+        "sensibilidade_media": 1.8,
+        "metodo_top": "Hacked",
+        "setor_top": "Web"
+      },
+      {
+        "cluster": 1,
+        "incidentes": 164,
+        "ano_medio": 2018.6,
+        "registros_medianos": 10800000.0,
+        "sensibilidade_media": 1.6,
+        "metodo_top": "Hacked",
+        "setor_top": "Web"
+      },
+      {
+        "cluster": 2,
+        "incidentes": 113,
+        "ano_medio": 2015.8,
+        "registros_medianos": 1700000.0,
+        "sensibilidade_media": 4.0,
+        "metodo_top": "Hacked",
+        "setor_top": "Health"
+      }
+    ]
+  },
+  "anomalias": {
+    "total": 21,
+    "lista": [
+      {
+        "entity": "Australian Immigration Department",
+        "year": 2015,
+        "records": 30,
+        "method": "Oops!"
+      },
+      {
+        "entity": "Mount Olympus",
+        "year": 2016,
+        "records": 1100,
+        "method": "Inside Job"
+      },
+      {
+        "entity": "Shanghai Police",
+        "year": 2022,
+        "records": 500000000,
+        "method": "Hacked"
+      },
+      {
+        "entity": "Aol",
+        "year": 2004,
+        "records": 92000000,
+        "method": "Inside Job"
+      },
+      {
+        "entity": "Wendy'S",
+        "year": 2016,
+        "records": 1025,
+        "method": "Hacked"
+      },
+      {
+        "entity": "Syniverse",
+        "year": 2021,
+        "records": 500000000,
+        "method": "Hacked"
+      },
+      {
+        "entity": "Cardsystems Solutions Inc.",
+        "year": 2005,
+        "records": 40000000,
+        "method": "Hacked"
+      },
+      {
+        "entity": "Linkedin",
+        "year": 2021,
+        "records": 700000000,
+        "method": "Hacked"
+      },
+      {
+        "entity": "Massive American Business Hack",
+        "year": 2013,
+        "records": 160000000,
+        "method": "Hacked"
+      },
+      {
+        "entity": "British Airways",
+        "year": 2015,
+        "records": 10000,
+        "method": "Hacked"
+      }
+    ]
+  }
+}

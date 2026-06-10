@@ -1,0 +1,22 @@
+entity,year,records,sector_main,method,data_sensitivity,anomaly_score
+Australian Immigration Department,2015,30,Government,Oops!,4.0,-0.12530870699669938
+Mount Olympus,2016,1100,Finance,Inside Job,5.0,-0.11136943524143328
+Shanghai Police,2022,500000000,Financial,Hacked,5.0,-0.10472414469590807
+Aol,2004,92000000,Web,Inside Job,1.0,-0.07362077277487966
+Wendy'S,2016,1025,Retail,Hacked,3.0,-0.06756582371010911
+Syniverse,2021,500000000,Telecoms,Hacked,4.0,-0.03431663786604
+Cardsystems Solutions Inc.,2005,40000000,Finance,Hacked,3.0,-0.028705399703927048
+Linkedin,2021,700000000,Web,Hacked,1.0,-0.028372847718015515
+Massive American Business Hack,2013,160000000,Finance,Hacked,5.0,-0.0254611251052127
+British Airways,2015,10000,Transport,Hacked,1.0,-0.024949475371199403
+Uk Ministry Of Defence,2008,1700000,Government,Lost Device,5.0,-0.01863500879037061
+Rbs Worldpay,2008,1500000,Finance,Hacked,5.0,-0.017648097099788096
+Epik,2021,15000000,Retail,Hacked,5.0,-0.015469926702485481
+Facebook,2021,533000000,Tech,Hacked,1.0,-0.014032822873983553
+Heroku,2022,50000,Tech,Hacked,2.0,-0.012353652089213907
+Us Military,2010,260000,Military,Inside Job,5.0,-0.011713073515602579
+Citigroup,2005,3900000,Finance,Lost Device,3.0,-0.007127309346419808
+Tk / Tj Maxx,2007,94000000,Retail,Hacked,3.0,-0.004092336740185942
+Firebase,2018,100000000,App,Poor Security,5.0,-0.0039475614318023045
+Aadhaar,2018,550000000,Government,Poor Security,4.0,-0.003330550543425903
+Aol,2006,20000000,Web,Oops!,1.0,-0.0007058597833426994

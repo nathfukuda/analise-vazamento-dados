@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Sistema operacional / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Gráficos HTML individuais (pesados e reprodutíveis com `python 01_eda_breaches.py`
+# e `python 02_nivel1_enriquecimento.py` / `04_machine_learning.py`).
+# O dashboard unificado (outputs/dashboard.html) já reúne todos eles.
+outputs/charts/*.html
