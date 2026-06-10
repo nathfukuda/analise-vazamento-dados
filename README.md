@@ -2,7 +2,7 @@
 
 Análise exploratória, **Machine Learning** e *storytelling* sobre os maiores vazamentos de dados já documentados (2004–2022): **417 incidentes** e mais de **14,3 bilhões de registros expostos**.
 
-Projeto completo, do dado bruto ao relatório executivo — pensado como peça de portfólio em Ciência/Análise de Dados.
+Projeto completo, do dado bruto ao relatório executivo.
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-data-150458?logo=pandas&logoColor=white)
